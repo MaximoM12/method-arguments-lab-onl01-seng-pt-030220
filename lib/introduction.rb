@@ -1,3 +1,13 @@
-def introduction(Josh)
-  puts "Hi, my name is #{Max} and i am learning to program in #{Ruby}."
+
+def introduction(name)
+ name = "Josh" 
+puts "Hi, my name is #{name}"
+return "Hi, my name is #{name}"
+end
+
+
+def introduction_with_language(name, language)
+name = "Max"
+language = "Ruby"
+puts "Hi, my name is #{name} and I am learning to program in #{language}."
 end

@@ -125,3 +125,12 @@ learning to program in #{language}."
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/method-arguments-lab' title='Method Arguments Lab'>Method Arguments Lab</a> on Learn.co and start learning to code for free.</p>
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/method-arguments-lab'>Methods and Arguments Lab</a> on Learn.co and start learning to code for free.</p>
+
+
+def introduction(Josh)
+<<<<<<< HEAD
+  puts "Hi, my name is #{Max} and i am learning to program in #{Ruby}."
+=======
+  puts "Hi, my name is #{Max}."
+>>>>>>> 93beb822d26b81dc3b1e03cb09ffb07a042514c2
+end
